@@ -22,7 +22,6 @@
     }
   },
   "modules": [
-    "break",
     "title",
     "separator",
     {
@@ -58,5 +57,6 @@
       "format": "{11}/{3}/{1}",
       "key": " "
     },
+    "break",
   ]
 }
